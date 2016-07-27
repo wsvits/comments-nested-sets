@@ -1,2 +1,5 @@
-# comments-nested-sets
-Test project: show comments tree (use nested sets)
+# Test project: show comments tree
+
+Show comments tree (use nested sets)
+
+Using Yii2 (PHP, MySql), jQuery
